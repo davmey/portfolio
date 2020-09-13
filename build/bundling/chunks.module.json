@@ -1,0 +1,89 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "3dfde948876f847282f0",
+  "publicPath": "/static/",
+  "outputPath": "/Users/meyersd/Development/portfolio/portfolio/build/static",
+  "assetsByChunkName": {
+    "portfolio": [
+      "portfolio.module.js",
+      "portfolio.a7a05944eec59ec99fce.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "a7a05944eec59ec99fce.hot-update.json",
+      "size": 51,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "portfolio.a7a05944eec59ec99fce.hot-update.js",
+      "size": 13237,
+      "chunks": [
+        "portfolio"
+      ],
+      "chunkNames": [
+        "portfolio"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "portfolio.module.js",
+      "size": 4834717,
+      "chunks": [
+        "portfolio"
+      ],
+      "chunkNames": [
+        "portfolio"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "portfolio": {
+      "chunks": [
+        "portfolio"
+      ],
+      "assets": [
+        "portfolio.module.js",
+        "portfolio.a7a05944eec59ec99fce.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "portfolio": {
+      "chunks": [
+        "portfolio"
+      ],
+      "assets": [
+        "portfolio.module.js",
+        "portfolio.a7a05944eec59ec99fce.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
